@@ -3,7 +3,7 @@
 ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b132b,50:1c2541,100:3a506b&height=260&section=header&text=Suraj%20Shekhawat&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20NexCore%20Labs&descSize=20&descAlignY=64&descColor=5bc0be" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b132b,50:1c2541,100:3a506b&height=260&section=header&text=Suraj%20Shekhawat&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Web%20%26%20Mobile%20Apps&descSize=20&descAlignY=64&descColor=5bc0be" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=5BC0BE&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+web+%26+mobile+products;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+React+Native;Clean+code.+Clear+communication.+On-time+delivery.;Open+to+freelance+%26+international+projects" alt="Typing animation"/>
@@ -132,11 +132,6 @@
     <td>Aug 2024 – Present</td>
     <td><b>Full-Stack Developer</b></td>
     <td>The Digital Socialite</td>
-  </tr>
-  <tr>
-    <td>Ongoing</td>
-    <td><b>Founder</b></td>
-    <td>NexCore Labs · Techwings Innovations</td>
   </tr>
   <tr>
     <td>Earlier</td>
