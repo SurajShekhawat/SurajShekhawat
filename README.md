@@ -1,21 +1,130 @@
+<!-- ===================== HEADER (animated wave) ===================== -->
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ suraj_rajput_1.8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/suraj-shekhawat-a5ba06218) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22427335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shekhawatsuraj202@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Suraj%20Shekhawat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Products%20That%20Scale&descAlignY=60&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=@SurajShekhawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=@SurajShekhawat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=@SurajShekhawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Suraj;Full-Stack+Developer+%E2%80%94+React+%7C+Next.js+%7C+Node.js;Mobile+Apps+with+React+Native+%F0%9F%93%B1;Founder+%40+NexCore+Labs+%F0%9F%9A%80;Turning+ideas+into+real-world+products" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=@SurajShekhawat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=SurajShekhawat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/SurajShekhawat?style=for-the-badge&logo=github&color=2c5364" alt="Followers"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=@SurajShekhawat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```js
+const suraj = {
+  name: "Suraj Shekhawat",
+  role: "Full-Stack Developer",
+  location: "India 🇮🇳",
+  currentlyAt: "The Digital Socialite",
+  ventures: ["NexCore Labs", "Techwings Innovations"],
+  education: "BCA (8.0/10 CGPA)",
+  certifications: ["HackerRank – Software Engineer", "HackerRank – SQL (Advanced)"],
+  focus: ["Web Apps", "Mobile Apps", "UI/UX", "AI & Automation"],
+  goal: "Build scalable products & work with global clients 🌍",
+  funFact: "I turn coffee into code ☕ → 💻"
+};
+```
+
+- 🔭 Currently building products with **MERN stack** & **React Native**
+- 🌱 Exploring **AI automation** and smart document workflows
+- 🤝 Open to **freelance projects** and **collaborations**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, React Native**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,tailwind&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,postman,vscode,firebase,vercel,npm,linux&perline=10" />
+
+</div>
+
+| Category | Technologies |
+|---|---|
+| 🎨 **Frontend** | React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript |
+| ⚙️ **Backend** | Node.js, Express.js, REST APIs |
+| 🗄️ **Database** | MongoDB, SQL |
+| 📱 **Mobile** | React Native |
+| 🧰 **Tools** | Git, GitHub, Postman, Figma, VS Code, Vercel |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🛒 **TradeZo** | Multi-app e-commerce platform — customer, seller & delivery apps | `React Native` `MongoDB` `Node.js` |
+| 🏠 **Home Heroes** | Home services + staff/security marketplace with customer app, professional app & admin panel | `React Native` `Node.js` `MongoDB` |
+| 📇 **CRM System** | Customer relationship management dashboard | `React` `Node.js` `MongoDB` |
+| 🏢 **NexCore Labs** | My own tech venture — web, app & automation solutions | `Full-Stack` |
+
+> 🔗 Add your repo links here, for example: `[TradeZo](https://github.com/SurajShekhawat/REPO_NAME)`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SurajShekhawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajShekhawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SurajShekhawat&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SurajShekhawat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SurajShekhawat/SurajShekhawat/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+<!--
+  SNAKE SETUP (one time):
+  1. Repo me ye file banao:  .github/workflows/snake.yml
+  2. Neeche wala content paste karo, commit karo
+  3. Actions tab -> "Generate Snake" -> Run workflow
+  (Pehli baar run hone ke baad "output" branch bann jayegi aur snake dikhne lagegi)
+-->
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/YOUR_ID"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%AD%90;Got+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
